@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+.row .col-4 input, select{
+    width: 100%;
+}
+.hero{
+    background-color: red;
+    color: white;
+}
+.container{
+    background-color: white;
+    color: red;
+}
